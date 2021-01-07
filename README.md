@@ -16,8 +16,6 @@
 ### Published Projects
 * <img src="https://raw.githubusercontent.com/89oinotna/89oinotna/master/dfsTavola%20disegno%201.png" width="30px"> [Umbra](https://play.google.com/store/apps/details?id=com.oinotna.umbra) - Control your pc easily from your smartphone via WIFI.
 
-### 📈 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=89oinotna&show_icons=true&theme=gotham" alt="89oinotna" />
 <!--
 **89oinotna/89oinotna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
