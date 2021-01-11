@@ -7,11 +7,7 @@
 ### 👨🏻‍💻 About Me 
 🎓 Computer Science student @ University of Pisa.
 
-### 🛠 Skills
-* Java / Python / C / C++ / Dart / OCaml
-* Android sdk / Flutter
-* MySQL
-* Git
+I mostly like to write bugs
 
 ### Published Projects
 * <img src="https://raw.githubusercontent.com/89oinotna/89oinotna/master/dfsTavola%20disegno%201.png" width="30px"> [Umbra](https://play.google.com/store/apps/details?id=com.oinotna.umbra) - Control your pc easily from your smartphone via WIFI.
