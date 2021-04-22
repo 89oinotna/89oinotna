@@ -8,7 +8,7 @@
 🎓 Computer Science student @ University of Pisa.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89oinotna&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89oinotna&layout=compact&theme=dracula&langs_count=10" />
 </a>
 
 ### Published Projects
