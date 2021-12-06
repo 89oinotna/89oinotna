@@ -7,9 +7,9 @@
 ### 👨🏻‍💻 About Me 
 🎓 Computer Science student @ University of Pisa.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89oinotna&layout=compact&theme=dracula&langs_count=10&hide=html" />
-</a>
+</a> !-->
 
 ### Published Projects
 * <img src="https://raw.githubusercontent.com/89oinotna/89oinotna/master/dfsTavola%20disegno%201.png" width="30px"> [Umbra](https://play.google.com/store/apps/details?id=com.oinotna.umbra) - Control your pc easily from your smartphone via WIFI.
