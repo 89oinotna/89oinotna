@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hi there, I'm 89oinotna</strong>
+<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="25"><strong> Hi there, I'm 89oinotna</strong>
 </h1>
 
 
@@ -11,9 +11,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89oinotna&layout=compact&theme=dracula&langs_count=10&hide=html" />
 </a> !-->
 
+<!--
 ### Published Projects
 * <img src="https://raw.githubusercontent.com/89oinotna/89oinotna/master/dfsTavola%20disegno%201.png" width="30px"> [Umbra](https://play.google.com/store/apps/details?id=com.oinotna.umbra) - Control your pc easily from your smartphone via WIFI.
-
+!-->
 
 <!--
 **89oinotna/89oinotna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
