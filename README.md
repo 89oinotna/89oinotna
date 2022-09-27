@@ -5,7 +5,7 @@
 
 
 ### 👨🏻‍💻 About Me 
-🎓 Computer Science student @ University of Pisa.
+🎓 Computer Science student @ University of Pisa. </br>
 🔭 Research Intern @ IMDEA Software Institute
 
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
