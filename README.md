@@ -6,6 +6,7 @@
 
 ### 👨🏻‍💻 About Me 
 🎓 Computer Science student @ University of Pisa.
+🔭 Research Intern @ IMDEA Software Institute
 
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89oinotna&layout=compact&theme=dracula&langs_count=10&hide=html" />
